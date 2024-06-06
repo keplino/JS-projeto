@@ -1,1 +1,1 @@
-# p5.js-projeto
+# JS-projeto
